@@ -1,4 +1,6 @@
-# counter-testing
+# counter-composable-app
+
+https://lanre-counter-app.web.app/counter
 
 ## Project setup
 ```
